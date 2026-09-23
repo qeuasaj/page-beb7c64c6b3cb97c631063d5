@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "71cd4e901e309aa1ca6e5d68",
+  "owner": "qeuasaj",
+  "repo": "page-beb7c64c6b3cb97c631063d5",
+  "title": "壹酷云(YEEKU)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "beb7c64c6b3cb97c631063d5",
+      "a": "壹酷云(YEEKU)",
+      "b": "2027最新官网",
+      "entity": "壹酷云(YEEKU)",
+      "brand": "壹酷云(YEEKU)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9a8b8e7b02c10b6ceb173962fad39b39b24b0dcc68b815d7abfe79f1bb8282f4",
+      "content": {
+        "primary_entity": "壹酷云(YEEKU)",
+        "keyword1": "壹酷云(YEEKU)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑客户端，桌面、移动端和路由器各有对应方案。",
+          "AI_CLIENTS_TITLE": "设备与客户端搭配",
+          "AI_CLOSING_TEXT": "按需选套餐，下载对应客户端即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选好设备，连上壹酷云",
+          "AI_DESCRIPTION": "，围绕设备需求与订阅周期做套餐区分。基础版每月 100GB 流量、支持 3 台设备在线，适合轻度使用；旗舰版每月 300GB 流量、支持 5 台设备，增加 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。按年付时基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可根据在线设备数量与月流量需求先确定版本，再按客户端文档导入订阅。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度了解壹酷云。",
+          "AI_FEATURES_TITLE": "套餐、设备与周期",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，流量与设备数依次增加。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。",
+          "AI_FEATURE_TEXT_3": "三档均提供按年付方案，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按档位选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "按周期定价格",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅配置。",
+          "AI_GUIDE_TITLE": "新手指引",
+          "AI_HERO_INTRO": "壹酷云(YEEKU)提供基础版、旗舰版、团队版三档套餐，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线，按年付另有对应价格。依据设备数量与流量需求选择版本，再按客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐适配多设备场景",
+          "AI_HIGHLIGHT_1": "三档流量覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "按设备数支持 3 台至 20 台同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版与团队版提供专线与高带宽节点",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备以内轻度使用，旗舰版适合 5 台设备并需要专线优化，团队版适合 20 台设备与定制路由需求，按年付可参考对应价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "依据在线设备数量与月流量需求，从基础版、旗舰版、团队版中确定版本。",
+          "AI_STEP_TEXT_2": "查看所选版本支持的设备数量与线路类型，确认是否满足当前使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上依照客户端文档导入订阅，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "壹酷云套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "壹酷云支持哪些设备类型？",
+          "AI_FAQ_ANSWER_1": "支持常见桌面与移动平台客户端，具体可在对应客户端文档中查看适配范围。不同系统的配置方式略有差异。",
+          "AI_FAQ_QUESTION_2": "基础版与旗舰版如何选择？",
+          "AI_FAQ_ANSWER_2": "看流量与设备数。基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含游戏加速优化，适合多场景使用。",
+          "AI_FAQ_QUESTION_3": "订阅导入失败怎么办？",
+          "AI_FAQ_ANSWER_3": "先核对订阅链接是否完整，再确认客户端版本与配置步骤。可尝试重新导入订阅或更换客户端内的节点。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相比按月支付，年付对应更长使用周期，单价更划算。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备，并提供 VIP 高带宽节点与定制路由，适合多人协作与高流量使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "idcnlinkjc.com",
+    "host": "idcnlinkjc.com"
+  },
+  "file_hashes": {
+    "index.html": "50cfcc2536f3cf963259343db081ea8ecf72a2c9d005db1cfd027ce3762d6798",
+    "sitemap.xml": "47cffd6bc5d944602221dfc2275166f773dd352321f6dd1e45ebc80a21f965d5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6725df9693e748c69840861aa1b391f7438ace58f94165f715d76638db8291c5",
+    "robots.txt": "c905378fd56c499f508a67d15a443d497b6e046a4729773aee03c7d9c0af9c01",
+    "c4c84edf13f64d530400196a075880eb.txt": "b56a42e13cb3665ad8b206bd3f70f21118a26218f4c081d33c7b29c64c89cc01"
+  },
+  "revision": "d3d1e90d5ae8884c372b837203900b9e5aa305339f59860e156cb8d17ccae990"
+}
